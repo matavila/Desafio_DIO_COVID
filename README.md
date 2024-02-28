@@ -33,12 +33,12 @@ Criando modelos com Python e machine learning para prever a evolução do COVID-
 7. **pmdarima:** Implementação do modelo AutoARIMA para análise e previsão de séries temporais.
 
 Essas bibliotecas são amplamente utilizadas em análise de dados, modelagem estatística e visualização de dados em Python. Juntas, elas oferecem uma poderosa gama de ferramentas para explorar e entender conjuntos de dados, realizar análises estatísticas avançadas e criar visualizações impactantes.
-
+<br>
 <img align="right" height="560em" src="Projetos\Figure_1.png">
 <img align="right" height="560em" src="Projetos\newplot (1).png">
 <img align="right" height="560em" src="Projetos\newplot (2).png">
 <img align="right" height="560em" src="Projetos\newplot (3).png">
-
+<br>
 ![Static Badge](https://img.shields.io/badge/Thank%20You-brightgreen)
-
+<br>
 SITE: https://shields.io/badges/static-badge
